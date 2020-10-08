@@ -39,6 +39,12 @@ pip install random
 4. Extract the folder.
 5. Run the ```space_invaders_game.py``` file.
 
+## How To Play It
+It's easy!
+1. Use arrow keys to move the player left or right.
+2. Press space to shoot.
+3. Don't let any enemy touch you!
+
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thank you.<br><br>
