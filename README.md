@@ -35,7 +35,7 @@ Level UP        |  Game Over
 pip install pygame
 pip install random
 ```
-3. Install this repository, click <a href="https://github.com/mohamedyanis/space-invaders-game/archive/master.zip"> here </a> to install it.
+3. Install this repository, click <a href="https://github.com/mohamedyanis/space-invaders-game/archive/master.zip"> here </a> to install it. 
 4. Extract the folder.
 5. Run the ```space_invaders_game.py``` file.
 
