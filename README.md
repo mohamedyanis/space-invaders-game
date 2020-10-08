@@ -21,6 +21,8 @@ Please :star: this repo to help us improve the quality.
 Begin           | playing XD
 :---------------------:|:------------------:
 ![screenshoot](screenshots/sig1.png) | ![screenshoot](screenshots/sig2.png)
+Game Over
+![screenshoot](screenshots/sig3.png)
 
 ## Requirements
 * python
