@@ -21,10 +21,8 @@ Please :star: this repo to help us improve the quality.
 Begin           | playing XD
 :---------------------:|:------------------:
 ![screenshoot](screenshots/sig1.png) | ![screenshoot](screenshots/sig2.png)
-<br>
-Game Over
-:---------------------:
-![screenshoot](screenshots/sig3.png)
+Level UP        |  Game Over
+![screenshoot](screenshots/sig3.png) | ![screenshoot](screenshots/sig4.png)
 
 ## Requirements
 * python
